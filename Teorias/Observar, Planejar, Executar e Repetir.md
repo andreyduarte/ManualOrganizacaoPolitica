@@ -8,7 +8,7 @@ Existe em cada um de nós uma tendência à organização social em volta de tem
 
 O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPE busca ser uma organização científica e baseada em dados.
 
-
+É importante que seja definido dentro da OP um grupo ou cargo responsável por coletar, manter e analisar os dados produzidos por esse processo, um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
 # Análise de Conjuntura
 Antes de qualquer...
 # Objetivos e Indicadores
@@ -25,6 +25,6 @@ Os Objetivos e Indicadores são essenciais no monitoramento da efetividade da OP
 	* "Realizar 10 formações ao longo do ano" e "Ter em média 10 participantes por formação";
 	* "Alcançar 80% de Adimplência" e "Filiar 10 novos membros";
 
-Objetivos e Indicadores devem ser definidos numa primeira etapa de planejamento a médio e longo prazo (anual ou semestral, por exemplo) e mantidos de forma visível aos diversos organizadores e participantes da OP. Isso é importante para que seja possível realizar a coleta, atualização e monitoramento dos dados indicadores, que permitirá uma visão ampla do progresso da OP. Essa coleta vai se dar principalmente pelo preenchimento dos [[Registros de Atividades]] elaborados para cada atividade e enviado 
+Objetivos e Indicadores devem ser definidos numa primeira etapa de planejamento a médio e longo prazo (anual ou semestral, por exemplo) e mantidos de forma visível aos diversos organizadores e participantes da OP. Isso é importante para que seja possível realizar a coleta, atualização e monitoramento dos dados indicadores, que permitirá uma visão ampla do progresso da OP. Essa coleta vai se dar principalmente pelo preenchimento dos [[Registros de Atividades]] elaborados para cada atividade que devem ser enviados ao local definido para o armazenamento desses dados para em seguida serem contabilizados pelo responsável.
 
 É importante que, ao fim do prazo estabelecido 
