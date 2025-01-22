@@ -8,9 +8,9 @@ Existe em cada um de nós uma tendência à organização social em volta de tem
 
 O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPE busca ser uma organização científica e baseada em dados.
 
-É importante que seja definido dentro da OP um grupo ou cargo responsável por coletar, manter e analisar os dados produzidos por esse processo (chamado aqui de Analista), um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
-# Observar: Análise de Conjuntura
-Antes de qualquer...
+É importante que seja definido dentro da OP um grupo ou cargo responsável por recolher, guardar e analisar os dados produzidos nesse processo (chamado aqui de Analista), um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
+# Observar: Analisando o Contexto
+Antes de planeja uma solução, precisamos ter uma profunda observação do problema, de forma que a etapa de Observação é de extrema importância. Por contexto aqui podemos levar em conta diferentes recortes de acordo com o escopo da sua OP: um país, uma categoria profissional, um estado ou cidade, uma universidade, etc. É importante deli 
 # Planejar: Objetivos, Indicadores e Intervenções:
 **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*. Exemplos de Objetivos para um Sindicato:
 > "Ampliar a participação de colegas que trabalham no setor privado"
