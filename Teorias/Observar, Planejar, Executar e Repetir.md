@@ -10,7 +10,12 @@ O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo 
 
 É importante que seja definido dentro da OP um grupo ou cargo responsável por recolher, guardar e analisar os dados produzidos nesse processo (chamado aqui de Analista), um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
 # Observar: Analisando o Contexto
-Antes de planeja uma solução, precisamos ter uma profunda observação do problema, de forma que a etapa de Observação é de extrema importância. Por contexto aqui podemos levar em conta diferentes recortes de acordo com o escopo da sua OP: um país, uma categoria profissional, um estado ou cidade, uma universidade, etc. É importante deli 
+Antes de planeja uma solução, precisamos ter uma profunda observação do problema, de forma que a etapa de Observação é de extrema importância. Por contexto aqui podemos levar em conta diferentes recortes de acordo com o escopo da sua OP: um país, uma categoria profissional, um estado ou cidade, uma universidade, etc. Uma boa análise de contexto deve conter: 
+* uma área geográfica de atuação e suas subdivisões (se houver);
+* uma base (estudantes, trabalhadores, minorias, etc);
+* uma revisão histórica da luta à qual sua OP se dedica;
+
+A partir desses três pontos é nec
 # Planejar: Objetivos, Indicadores e Intervenções:
 **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*. Exemplos de Objetivos para um Sindicato:
 > "Ampliar a participação de colegas que trabalham no setor privado"
