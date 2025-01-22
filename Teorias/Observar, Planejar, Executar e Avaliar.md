@@ -1,20 +1,20 @@
 > Construir uma Organização Política é certamente um desafio, mas um que é enfrentado e superado por seres humanos desde os tempos mais ancestrais. 
 
 > [!NOTE] Nota do Autor
-Suponho ser consenso entre os leitores que organizar-se politicamente é necessário, mas como fazê-lo de forma eficiente frente aos desafios que enfrentamos? Anualmente rios de dinheiro são gastos por Think Tanks, Empresas, Agências Governamentais, etc; na organização e aperfeiçoamento dos seus processos, na motivação dos integrantes, etc. Em contrapartida, tenho observado naquelas OPs com as quais tive contato um certo amadorismo, que é completamente compreensível dado que lhes faltam os recursos das contrapartes aliadas ao capital, mas que pode e precisa ser discutido e superado. Colocando em termos behavioristas: é preciso dar à organização um repertório comportamental capaz de melhor descrever as contingências às quais está sujeita e, por consequência, a capacidade de melhor intervir sobre elas.
+Suponho ser consenso entre os leitores que organizar-se politicamente é necessário, mas como fazê-lo de forma eficiente frente aos desafios que enfrentamos? Anualmente rios de dinheiro são gastos por Think Tanks, Empresas, Agências Governamentais, etc; na organização e aperfeiçoamento dos seus processos, na motivação dos integrantes, etc. Em contrapartida, tenho observado naquelas OPs com as quais tive contato um certo amadorismo, que é completamente compreensível dado que lhes faltam os recursos das contrapartes aliadas ao capital, mas que pode e precisa ser discutido e superado. Colocando em termos behavioristas: é preciso dar às organizações um repertório comportamental capaz de melhor descrever as contingências às quais estão sujeitas e, por consequência, a capacidade de melhor intervirem sobre seu contexto.
 
-A proposta desse capítulo é oferecer um sistema de Observação, Planejamento e Execução (OPE) das atividades da Organização Política (OP), de maneira que seja possível coletar dados sobre a execução das atividades e associá-los ao cumprimento dos objetivos gerais da organização buscando um processo de melhoria permanente:
+A proposta desse capítulo é oferecer um sistema de Observação, Planejamento, Execução e Avaliação (OPEA) das atividades da Organização Política (OP), de maneira que seja possível coletar dados sobre a execução das atividades e associá-los ao cumprimento dos objetivos gerais da organização buscando um processo de melhoria permanente:
 
 ![[Fluxograma OPE.png]]
 *Fluxograma indicando as etapas e seus produtos.*
 
-Esse processo de OPE é derivado de forma geral de um método de experimentação científica, que segue uma estrutura parecida:
+Esse processo de OPEA é derivado de forma geral de um método de experimentação científica, que segue uma estrutura parecida:
 * Produção de uma Linha de Base: Coleta de dados relacionados aos objetivos do estudo num contexto inicial, ainda sem qualquer intervenção.
 * Intervenção: Aplicação da técnica atualmente estudada.
 * Observação pós-intervenção: Nova Coleta dos dados presentes na Linha de Base, agora atualizados pela intervenção.
 * Análise e Planejamento: Comparação das coletas de dados para analisar resultados da intervenção, re-elaboração da intervenção com base na eficácia.
 
-O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPE busca ser uma organização científica e baseada em dados.
+O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPEA busca ser uma organização científica e baseada em dados.
 
 É importante que seja definido dentro da OP um grupo ou cargo responsável por recolher, guardar e analisar os dados produzidos nesse processo (chamado aqui de Analista), um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
 # Observar: Analisando o Contexto
