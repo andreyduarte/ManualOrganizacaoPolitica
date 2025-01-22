@@ -11,8 +11,7 @@ O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo 
 É importante que seja definido dentro da OP um grupo ou cargo responsável por coletar, manter e analisar os dados produzidos por esse processo, um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
 # Observar: Análise de Conjuntura
 Antes de qualquer...
-# Planejar: Objetivos e Intervenções
-Os Objetivos e seus Indicadores são essenciais no monitoramento da efetividade da OPs ao permitir uma visão ampla do desempenho e direção da atuação.:
+# Planejar: Objetivos e Intervenções:
 
 **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*;
 * Exemplos das metas anuais de um sindicato:
@@ -25,9 +24,15 @@ Os Objetivos e seus Indicadores são essenciais no monitoramento da efetividade 
 	* "Realizar 10 formações ao longo do ano" e "Ter em média 10 participantes por formação";
 	* "Alcançar 80% de Adimplência" e "Filiar 10 novos membros";
 
-Objetivos e Indicadores devem ser definidos numa primeira etapa de planejamento a médio e longo prazo (anual ou semestral, por exemplo) e mantidos de forma visível aos diversos organizadores e participantes da OP. Isso é importante para que seja possível realizar a coleta, atualização e monitoramento dos dados indicadores ao longo da execução, que permitirá uma visão ampla do progresso da OP. 
+Os Objetivos e seus Indicadores são essenciais no monitoramento da efetividade da OPs ao permitir uma visão ampla do desempenho e direção da atuação. Eles devem ser definidos numa primeira etapa de planejamento a médio e longo prazo (anual ou semestral, por exemplo) e mantidos de forma visível aos diversos organizadores e participantes da OP. Isso é importante para que seja possível realizar a coleta, atualização e monitoramento dos dados indicadores ao longo da execução, que permitirá uma visão ampla do progresso da OP. 
 
-Além dos objetivos é importante planejar um Calendário de Intervenções
+**Intervenções**: São *atividades* pontuais ou recorrentes que buscam avançar um ou mais *objetivos*.
+* Exemplos das Intervenções de um sindicato:
+	* "Formação Mensal sobre História dos Sindicatos"
+	* "Visita a Locais de Trabalho para Coleta de Demandas"
+	* "Panfletagem sobre Filiação no Ato Sobre Passagem"
+
+Além dos objetivos é importante planejar um Calendário de Intervenções, com atividades voltadas para cada *objetivo*, 
 # Executar: Atividades e Coleta de Dados
 Essa coleta vai se dar principalmente pelo preenchimento dos [[Registros de Atividades]] elaborados para cada atividade que devem ser enviados ao local definido para o armazenamento desses dados para em seguida serem contabilizados pelo responsável.
 
