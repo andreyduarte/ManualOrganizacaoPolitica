@@ -13,10 +13,11 @@ O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo 
 Antes de qualquer...
 # Planejar: Objetivos, Indicadores e Intervenções:
 **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*;
-* Exemplos das metas anuais de um sindicato:
-	* "Ampliar a participação de colegas que trabalham no setor privado";
-	* "Organizar e cumprir um calendário de formações";
-	* "Garantir a sustentabilidade financeira do sindicato";
+> [!VIEW] Exemplos de Objetivos para um Sindicato:
+"Ampliar a participação de colegas que trabalham no setor privado"
+"Organizar e cumprir um calendário de formações"
+"Garantir a sustentabilidade financeira do sindicato"
+
 **Indicadores**: São dados *quantitativos* que determinam o andamento de cada *objetivo*;
 * Exemplos a partir dos objetivos acima:
 	* "Alcançar 50 filiações no setor privado" e "Visitar 10 Locais de Trabalho do Setor Privado";
