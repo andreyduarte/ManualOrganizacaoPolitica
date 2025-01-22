@@ -1,6 +1,6 @@
 * [[Introdução]]
 * [[Como Usar Esse Livro]]
-* [[Parte 1 - Teorias]] 
+* Parte 1 - Teorias 
 	1. [[Behaviorismo]]
 		1. introdução geral
 		2. lista de conceitos
@@ -14,7 +14,7 @@
 		1. [[Criando uma Organização Política]]
 		2. [[Mantendo uma Organização Política]]
 		3. [[Estrutura e Organização Interna]]
-* [[Parte 2 - Práticas]] 
+* Parte 2 - Práticas 
 	1. [[Atividades]]
 		1. [[Sobre Reuniões no Geral]]
 		2. [[Assembléias e Eleições]]
@@ -22,8 +22,8 @@
 		4. [[Eventos e Divulgação]]
 		5. [[Atos e Manifestações]]
 	2. [[Recursos]]
-		1. [[Modelos]]
-			1. [[Tabela de Objetivos e Indicadores]]
+		1. [[Tabela de Objetivos e Indicadores]]
+		2. [[Modelos de Documentos]]
 			4. [[Registro de Atividade]]
 			5. [[Ata para Reuniões]]
 			6. [[Formulário de Filiação]]
