@@ -8,7 +8,7 @@ Existe em cada um de nós uma tendência à organização social em volta de tem
 
 O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPE busca ser uma organização científica e baseada em dados.
 
-É importante que seja definido dentro da OP um grupo ou cargo responsável por coletar, manter e analisar os dados produzidos por esse processo, um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
+É importante que seja definido dentro da OP um grupo ou cargo responsável por coletar, manter e analisar os dados produzidos por esse processo (chamado aqui de Analista), um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
 # Observar: Análise de Conjuntura
 Antes de qualquer...
 # Planejar: Objetivos, Indicadores e Intervenções:
@@ -31,6 +31,7 @@ Os Objetivos e seus Indicadores são essenciais no monitoramento da efetividade 
 
 As Intervenções são, muito provavelmente, a razão de existir das OPs. São aquelas atividades que buscam avançar seus objetivos e progressivamente modificar o contexto que se inserem. É importante que sejam definidas também nessa etapa de planejamento a médio e longo prazo com elaboração de [[Registros de Atividades]] para cada uma, onde constem os objetivos e indicadores associados a ela, responsáveis, local e data, assim como os passo a passo das etapas de planejamento, execução e registro. Para o planejamento das atividades recomenda-se usar como base as orientações sobre atividades contidas na Parte 2 desse manual.
 # Executar: Atividades e Coleta de Dados
-O responsável por cada atividade deve fazer o preenchimento dos [[Registros de Atividades]] que devem ser enviados ao local definido para o armazenamento desses dados e futura análise. 
+A execução consiste na realização das atividades ao longo do prazo conforme planejadas na etapa anterior. 
+O responsável por cada atividade deve fazer o preenchimento dos [[Registros de Atividades]] que devem ser enviados ao local definido para o armazenamento desses dados e futura análise de resultados. É importante conversar com os responsáveis da importância da uniformidade dos registros para a precisão da análise, também é necessário que eles possuam um canal de comunicação constante com o Analista para esclarecimento sobre as orientações ou registro da atividade.
 # Repetir: Analise e Reformulação
 É importante que, ao fim do prazo estabelecido para os Objetivos, aconteça uma reunião de revisão do progresso, discussão do desempenho, elaboração e deliberação de propostas de mudança e por fim, estabelecimento de novos objetivos/indicadores ou renovação dos anteriores;
