@@ -9,18 +9,19 @@ Existe em cada um de nós uma tendência à organização social em volta de tem
 O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir da observação e intervenção mais intuitiva de seus membros, OPE busca ser uma organização Científica e baseada em dados.
 # Análise de Conjuntura
 
+
 # Objetivos e Indicadores
 Os Objetivos e Indicadores são essenciais no monitoramento da efetividade da OPs ao permitir uma visão ampla do desempenho e direção da atuação. 
 
-* **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*;
-	* Exemplos das metas anuais de um sindicato:
-		* "Ampliar a participação de colegas que trabalham no setor privado";
-		* "Organizar e manter um calendário de formações";
-		* "Garantir a sustentabilidade financeira do sindicato";
-* **Indicadores**: São dados *quantitativos* que determinam o andamento dos *objetivos*;
-	* Exemplos dos objetivos acima:
-		* "Alcançar 50 filiações no setor privado" e "Visitar 10 Locais de Trabalho do Setor Privado";
-		* "Realizar 10 formações ao longo do ano" e "Ter em média 10 participantes por formação";
-		* "Alcançar 80% de Adimplência" e "Filiar 10 novos membros";
+**Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*;
+* Exemplos das metas anuais de um sindicato:
+	* "Ampliar a participação de colegas que trabalham no setor privado";
+	* "Organizar e manter um calendário de formações";
+	* "Garantir a sustentabilidade financeira do sindicato";
+**Indicadores**: São dados *quantitativos* que determinam o andamento dos *objetivos*;
+* Exemplos dos objetivos acima:
+	* "Alcançar 50 filiações no setor privado" e "Visitar 10 Locais de Trabalho do Setor Privado";
+	* "Realizar 10 formações ao longo do ano" e "Ter em média 10 participantes por formação";
+	* "Alcançar 80% de Adimplência" e "Filiar 10 novos membros";
 
 Objetivos e Indicadores devem ser definidos numa primeira etapa de 
