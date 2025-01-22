@@ -12,25 +12,25 @@ O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo 
 # Observar: Analisando o Contexto
 Antes de planeja uma solução, precisamos ter uma profunda observação do problema, de forma que a etapa de Observação é de extrema importância. Por contexto aqui podemos levar em conta diferentes recortes de acordo com o escopo da sua OP: um país, uma categoria profissional, um estado ou cidade, uma universidade, etc. Uma boa análise de contexto parte de três pontos principais: 
 
-**Recorte Geográfico**: A área de atuação da sua OP, suas particularidades e histórico político;
-**Base Popular**: O(s) grupo(s) de pessoas que a OP busca filiar, seus interesses, motivações, etc;
-**Histórico da Luta**: Uma revisão histórica das lutas da OP (e organizações semelhantes), os métodos utilizados e os resultados que alcançaram;
+* **Recorte Geográfico**: A área de atuação da sua OP, suas particularidades e histórico político;
+* **Base Popular**: O(s) grupo(s) de pessoas que a OP busca filiar, seus interesses, motivações, etc;
+* **Histórico da Luta**: Uma revisão histórica das lutas da OP (e organizações semelhantes), os métodos utilizados e os resultados que alcançaram;
 
 A produção dessa análise contextual tem como objetivo melhorar a habilidade dos dirigentes discriminar fatores importantes no seu contexto, servindo inclusive para melhor centralizar a compreensão dos diferentes integrantes sobre o contexto em que atuam. Para tornar mais efetiva a análise é ideal que seja produzido um documento de registro e consulta dessas informações (ver [[Tabela de Análise Contextual]]), que servirá como base para a etapa seguinte e como linha de base para comparação com a próxima observação pós-execução.
 # Planejar: Objetivos, Indicadores e Intervenções
-**Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*. Exemplos de Objetivos para um Sindicato:
+* **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*. Exemplos de Objetivos para um Sindicato:
 > "Ampliar a participação de colegas que trabalham no setor privado"
 "Organizar e cumprir um calendário de formações"
 "Garantir a sustentabilidade financeira do sindicato"
 
-**Indicadores**: São dados *quantitativos* que determinam o andamento de cada *objetivo*. Exemplos a partir dos objetivos acima:
+* **Indicadores**: São dados *quantitativos* que determinam o andamento de cada *objetivo*. Exemplos a partir dos objetivos acima:
 >"Alcançar 50 filiações no setor privado" e "Visitar 10 Locais de Trabalho do Setor Privado"
 "Realizar 10 formações ao longo do ano" e "Ter em média 10 participantes por formação"
 "Alcançar 80% de Adimplência" e "Filiar 10 novos membros"
 
 Os Objetivos e seus Indicadores são essenciais no monitoramento da efetividade da OPs ao permitir uma visão ampla do desempenho e direção da atuação. Eles devem ser definidos numa etapa de planejamento a médio ou longo prazo (anual ou semestral, por exemplo) e mantidos num documento visível aos diversos organizadores e participantes da OP (ver [[Tabela de Objetivos e Indicadores]]). Isso é importante para que seja possível realizar a coleta, atualização e monitoramento dos dados indicadores ao longo da execução, que permitirá uma visão ampla do progresso da OP. 
 
-**Intervenções**: São *atividades* pontuais ou recorrentes que buscam avançar um ou mais *objetivos*. Exemplos das Intervenções de um sindicato:
+* **Intervenções**: São *atividades* pontuais ou recorrentes que buscam avançar um ou mais *objetivos*. Exemplos das Intervenções de um sindicato:
 >"Formação Mensal sobre História dos Sindicatos"
 "Visita a Locais de Trabalho para Coleta de Demandas"
 "Panfletagem Sobre Filiação no Ato Sobre Passagem de Ônibus"
