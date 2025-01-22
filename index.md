@@ -17,7 +17,7 @@ Nosso objetivo é orientar a realização de atividades básicas para a Organiza
 ### Parte 1 - Textos Teóricos
 * [[Behaviorismo]]
 * [[Marxismo]]
-* [[Observar, Planejar, Executar e Repetir]]
+* [[Observar, Planejar, Executar e Avaliar]]
 * [[Sobre Organizações Políticas]]
 ### Parte 2 - Orientação das Práticas
 [[Atividades]]

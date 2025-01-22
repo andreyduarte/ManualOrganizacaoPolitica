@@ -1,9 +1,14 @@
 {
 	"nodes":[
-		{"id":"fd1b587945c56864","x":-349,"y":-156,"width":250,"height":60,"type":"text","text":""},
-		{"id":"2ff033669ebc7fcb","type":"text","text":"Planejamento\n\n* Objetivos\n* Indicadores\n* Intevenções","x":-401,"y":-420,"width":250,"height":160},
-		{"id":"d06789f613b654c6","type":"text","text":"Observação\n* Recorte Geográfico\n* Base Popular\n* Histórico da Luta","x":-700,"y":-420,"width":250,"height":160},
-		{"id":"9f60489ccc8b82e8","x":-434,"y":-251,"width":250,"height":60,"type":"text","text":""}
+		{"id":"d06789f613b654c6","type":"text","text":"Observar\n* Recorte Geográfico\n* Base Popular\n* Histórico da Luta","x":-700,"y":-420,"width":250,"height":160},
+		{"id":"2ff033669ebc7fcb","type":"text","text":"Planejar\n* Objetivos\n* Indicadores\n* Intevenções","x":-380,"y":-420,"width":250,"height":160},
+		{"id":"b27b45aaae3183dd","type":"text","text":"Executar\n* Orientação\n* Registro de Atividade\n","x":-380,"y":-200,"width":250,"height":155},
+		{"id":"d4840b4d9b2f2c0b","type":"text","text":"Avaliar\n* Análise dos Dados\n* Discutir Resultados","x":-700,"y":-200,"width":250,"height":155}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fa6c356e7ac80776","fromNode":"d06789f613b654c6","fromSide":"right","toNode":"2ff033669ebc7fcb","toSide":"left"},
+		{"id":"1d1687880dda9fcb","fromNode":"2ff033669ebc7fcb","fromSide":"bottom","toNode":"b27b45aaae3183dd","toSide":"top"},
+		{"id":"5acf531f0620ff97","fromNode":"b27b45aaae3183dd","fromSide":"left","toNode":"d4840b4d9b2f2c0b","toSide":"right"},
+		{"id":"ec2a78cbf02cf05e","fromNode":"d4840b4d9b2f2c0b","fromSide":"top","toNode":"d06789f613b654c6","toSide":"bottom"}
+	]
 }
