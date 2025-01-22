@@ -26,6 +26,7 @@ Nosso objetivo é orientar a realização de atividades básicas para a Organiza
 * [[Formações]]
 * [[Eventos e Divulgação]]
 * [[Atos e Manifestações]]
+
 [[Recursos]]
 * [[Tabela de Objetivos e Indicadores]]
 * [[Modelos de Documentos]]
