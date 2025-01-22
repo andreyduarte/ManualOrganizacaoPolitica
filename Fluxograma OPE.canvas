@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"16fe01cc261f4c3f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"e19396aea94a9f1b","x":-440,"y":-220,"width":250,"height":60,"type":"text","text":""}
+		{"id":"fd1b587945c56864","x":-349,"y":-156,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2ff033669ebc7fcb","type":"text","text":"Planejamento\n\n* Objetivos\n* Indicadores\n* Intevenções","x":-401,"y":-420,"width":250,"height":160},
+		{"id":"d06789f613b654c6","type":"text","text":"Observação\n* Recorte Geográfico\n* Base Popular\n* Histórico da Luta","x":-700,"y":-420,"width":250,"height":160},
+		{"id":"9f60489ccc8b82e8","x":-434,"y":-251,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[]
 }
