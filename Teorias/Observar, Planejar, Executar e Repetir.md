@@ -23,4 +23,4 @@ Os Objetivos e Indicadores são essenciais no monitoramento da efetividade da OP
 	* "Realizar 10 formações ao longo do ano" e "Ter em média 10 participantes por formação";
 	* "Alcançar 80% de Adimplência" e "Filiar 10 novos membros";
 
-Objetivos e Indicadores devem ser definidos numa primeira etapa de 
+Objetivos e Indicadores devem ser definidos numa primeira etapa de planejamento a médio e longo prazo (anual ou semestral, por exemplo) e mantidos de forma visível aos diversos organiz
