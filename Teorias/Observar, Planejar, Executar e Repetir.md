@@ -9,12 +9,16 @@ Existe em cada um de nós uma tendência à organização social em volta de tem
 O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPE busca ser uma organização científica e baseada em dados.
 
 É importante que seja definido dentro da OP um grupo ou cargo responsável por recolher, guardar e analisar os dados produzidos nesse processo (chamado aqui de Analista), um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
-# Observar: Analisando o Contexto
+# Observar: Analisando Contexto e Organização
 Antes de planeja uma solução, precisamos ter uma profunda observação do problema, de forma que a etapa de Observação é de extrema importância. Por contexto aqui podemos levar em conta diferentes recortes de acordo com o escopo da sua OP: um país, uma categoria profissional, um estado ou cidade, uma universidade, etc. Uma boa análise de contexto parte de três pontos principais: 
 
-**Recorte Geográfico**: A área de atuação da sua OP, com suas sub-divisões a depender do tamanho;
-**Base Popular**: O(s) grupo(s) de pessoas que a OP busca filiar;
+**Recorte Geográfico**: A área de atuação da sua OP, suas particularidades e histórico político;
+**Base Popular**: O(s) grupo(s) de pessoas que a OP busca filiar, seus interesses, motivações, etc;
 **Histórico da Luta**: Uma revisão histórica das lutas da OP (e organizações semelhantes), os métodos utilizados e os resultados que alcançaram;
+
+A produção
+
+Para tornar mais efetiva a análise é ideal que seja produzido um documento de registro dessas informações, que servirá como base para a etapa seguinte e como linha de base para comparação com a próxima observação pós-execução/
 # Planejar: Objetivos, Indicadores e Intervenções:
 **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*. Exemplos de Objetivos para um Sindicato:
 > "Ampliar a participação de colegas que trabalham no setor privado"
