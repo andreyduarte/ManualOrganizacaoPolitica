@@ -9,5 +9,11 @@ Existe em cada um de nós uma tendência à organização social em volta de tem
 O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir da observação e intervenção mais intuitiva de seus membros, OPE busca ser uma organização Científica e baseada em dados.
 # Objetivos e Indicadores
 Objetivos e Indicadores são essenciais no monitoramento da efetividade da OPs, são definidos a seguir:
-
-	**Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo* 
+* **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*;
+	* Exemplos de um sindicato:
+		* "Ampliar a participação de colegas que trabalham no setor privado";
+		* "Organizar e manter um calendário de formações";
+		* "Garantir a sustentabilidade financeira do sindicato";
+* **Indicadores**: São dados *quantitativos* que determinam o andamento de *objetivos*;
+	* Exemplos dos objetivos acima:
+		* "Alcançar 50 filiações no setor privado" e "Visitar 10 Locais de Trabalho do "
