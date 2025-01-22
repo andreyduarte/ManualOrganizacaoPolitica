@@ -5,7 +5,7 @@ Suponho ser consenso entre os leitores que organizar-se politicamente é necess�
 
 A proposta desse capítulo é oferecer um sistema de Observação, Planejamento, Execução e Avaliação (OPEA) das atividades da Organização Política (OP), de maneira que seja possível coletar dados sobre a execução das atividades e associá-los ao cumprimento dos objetivos gerais da organização buscando um processo de melhoria permanente:
 
-![[Imagens/Fluxograma OPEA.png]]
+![[Fluxograma OPEA.png]]
 *Fluxograma indicando as etapas e seus produtos.*
 
 Esse processo de OPEA é derivado de forma geral de um método de experimentação científica, que segue uma estrutura parecida:
