@@ -7,7 +7,8 @@ Existe em cada um de nós uma tendência à organização social em volta de tem
 * Análise e Planejamento: Comparação das coletas de dados para aferir resultados da intervenção, re-elaboração da intervenção com base na eficácia obtida.
 
 O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir da observação e intervenção mais intuitiva de seus membros, OPE busca ser uma organização Científica e baseada em dados.
-# 
+# Análise de Conjuntura
+
 # Objetivos e Indicadores
 Os Objetivos e Indicadores são essenciais no monitoramento da efetividade da OPs ao permitir uma visão ampla do desempenho e direção da atuação. 
 
