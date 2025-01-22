@@ -1,0 +1,1 @@
+Construir uma OP é certamente um desafio, mas um que é enfrentado e superado por seres humanos desde os tempos mais ancestrais. Existe em cada um de nós uma tendência à organização social em volta de temas que são caros para nossas vidas, de forma que à primeira vista parece desnecessário debruçar-se 
