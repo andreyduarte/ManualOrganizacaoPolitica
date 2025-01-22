@@ -1,6 +1,6 @@
 > Construir uma Organização Política é certamente um desafio, mas um que é enfrentado e superado por seres humanos desde os tempos mais ancestrais. 
 
-Suponho ser consenso entre os leitores que organizar-se politicamente é necessário, mas como fazê-lo de forma eficiente frente aos desafios que enfrentamos? Anualmente rios de dinheiro são gastos por Think Tanks, Empresas, Agências Governamentais, etc; na organização e aperfeiçoamento dos seus processos, na motivação dos integrantes, etc. Em contrapartida, tenho observado naquelas OPs com as quais tive contato um certo amadorismo
+Suponho ser consenso entre os leitores que organizar-se politicamente é necessário, mas como fazê-lo de forma eficiente frente aos desafios que enfrentamos? Anualmente rios de dinheiro são gastos por Think Tanks, Empresas, Agências Governamentais, etc; na organização e aperfeiçoamento dos seus processos, na motivação dos integrantes, etc. Em contrapartida, tenho observado naquelas OPs com as quais tive contato um certo amadorismo, que é completamente compreensível dado que lhes faltam os recursos das contrapartes aliadas ao capital, mas que pode e precisa ser discutido e superado.  
 
 A proposta desse capítulo é oferecer um sistema de Observação, Planejamento e Execução (OPE) das atividades da Organização Política (OP), de maneira que seja possível coletar dados sobre a execução das atividades e associá-los ao cumprimento dos objetivos gerais da organização buscando um processo de melhoria permanente:
 
