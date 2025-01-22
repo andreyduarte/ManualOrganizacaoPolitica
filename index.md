@@ -8,20 +8,16 @@ Seja bem-vindo(a) ao Manual Behaviorista da Organização Marxista!
 
 Nosso objetivo é orientar a realização de atividades básicas para a Organização Política aproveitando das melhores práticas da Análise Aplicada do Comportamento. Este material é organizado em duas partes: Textos Teóricos e Orientação das Práticas. 
 
-**Textos Teóricos** têm o objetivo de informar o leitor dos conceitos básicos de Behaviorismo, Marxismo, 
+* ***Textos Teóricos** têm o objetivo de informar o leitor dos conceitos básicos de Behaviorismo, Marxismo e Gestão de Organizações Políticas; Inclui fichas de conceitos básicos de cada teoria para facilitar a consulta.
+* ***Orientação das Práticas** têm o objetivo de oferecer ao leitor  sistematizar o planejamento, execução e avaliação de diversas atividades comuns às Organizações Políticas. Também 
+
 # Índice
 * [[Introdução]]
 * [[Como Usar Esse Livro]]
 * Parte 1 - Textos Teóricos 
 	1. [[Behaviorismo]]
-		1. introdução geral
-		2. lista de conceitos
 	2. [[Marxismo]]
-		1. introdução geral
-		2. lista de conceitos
 	3. [[Observar, Planejar, Executar e Repetir]]
-		1. [[Objetivos e Indicadores]]
-		2. [[Análise Funcional do Comportamento]]
 	4. [[Sobre Organizações Políticas]]
 		1. [[Criando uma Organização Política]]
 		2. [[Mantendo uma Organização Política]]
