@@ -1,6 +1,6 @@
 > Construir uma OP é certamente um desafio, mas um que é enfrentado e superado por seres humanos desde os tempos mais ancestrais. 
 
-Existe em cada um de nós uma tendência à organização social em volta de temas que são importantes para nossas vidas, de forma que à primeira vista parece desnecessário debruçar-se longamente sobre como organizar esse processo. Todavia, uma abordagem "artesanal" ou "intuitiva" que não leva em conta um aparato observação e avaliação do desempenho pode com o tempo gestar problemas que comprometem sua força de atuação política. Dessa forma, a proposta desse capítulo é oferecer um sistema de Observação, Planejamento e Execução (OPE) das atividades da OP, de maneira que seja possível Coletar dados das atividades e associá-los ao cumprimento dos objetivos gerais da organização buscando dar subsídio ao planejamento do futuro. Esse processo de OPE é derivado de um processo de experimentação científica, que segue uma estrutura parecida:
+Existe em cada um de nós uma tendência à organização social em volta de temas que são importantes para nossas vidas, de forma que à primeira vista parece desnecessário debruçar-se longamente sobre como organizar esse processo. Todavia, uma abordagem "artesanal" ou "intuitiva" que não leva em conta um aparato observação e avaliação do desempenho pode com o tempo gestar problemas que comprometem sua força de atuação política. Dessa forma, a proposta desse capítulo é oferecer um sistema de Observação, Planejamento e Execução (OPE) das atividades da OP, de maneira que seja possível coletar dados sobre a execução das atividades e associá-los ao cumprimento dos objetivos gerais da organização buscando um processo de melhoria permanente. Esse processo de OPE é derivado de forma geral de um método de experimentação científica, que segue uma estrutura parecida:
 * Produção de uma Linha de Base: Coleta de dados relacionados aos objetivos do estudo num contexto inicial, ainda sem qualquer intervenção.
 * Intervenção: Aplicação da técnica atualmente estudada.
 * Observação pós intervenção: Nova Coleta dos dados presentes na Linha de Base.
@@ -11,21 +11,23 @@ O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo 
 É importante que seja definido dentro da OP um grupo ou cargo responsável por coletar, manter e analisar os dados produzidos por esse processo, um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
 # Observar: Análise de Conjuntura
 Antes de qualquer...
-# Planejar: Objetivos e Indicadores
-Os Objetivos e Indicadores são essenciais no monitoramento da efetividade da OPs ao permitir uma visão ampla do desempenho e direção da atuação. 
+# Planejar: Objetivos e Intervenções
+Os Objetivos e seus Indicadores são essenciais no monitoramento da efetividade da OPs ao permitir uma visão ampla do desempenho e direção da atuação.:
 
 **Objetivos**: São *metas* que a organização deseja alcançar em determinado *prazo*;
 * Exemplos das metas anuais de um sindicato:
 	* "Ampliar a participação de colegas que trabalham no setor privado";
-	* "Organizar e manter um calendário de formações";
+	* "Organizar e cumprir um calendário de formações";
 	* "Garantir a sustentabilidade financeira do sindicato";
-**Indicadores**: São dados *quantitativos* que determinam o andamento dos *objetivos*;
-* Exemplos dos objetivos acima:
+**Indicadores**: São dados *quantitativos* que determinam o andamento de cada *objetivo*;
+* Exemplos a partir dos objetivos acima:
 	* "Alcançar 50 filiações no setor privado" e "Visitar 10 Locais de Trabalho do Setor Privado";
 	* "Realizar 10 formações ao longo do ano" e "Ter em média 10 participantes por formação";
 	* "Alcançar 80% de Adimplência" e "Filiar 10 novos membros";
 
-Objetivos e Indicadores devem ser definidos numa primeira etapa de planejamento a médio e longo prazo (anual ou semestral, por exemplo) e mantidos de forma visível aos diversos organizadores e participantes da OP. Isso é importante para que seja possível realizar a coleta, atualização e monitoramento dos dados indicadores, que permitirá uma visão ampla do progresso da OP. 
+Objetivos e Indicadores devem ser definidos numa primeira etapa de planejamento a médio e longo prazo (anual ou semestral, por exemplo) e mantidos de forma visível aos diversos organizadores e participantes da OP. Isso é importante para que seja possível realizar a coleta, atualização e monitoramento dos dados indicadores ao longo da execução, que permitirá uma visão ampla do progresso da OP. 
+
+Além dos objetivos é importante planejar um Calendário de Intervenções
 # Executar: Atividades e Coleta de Dados
 Essa coleta vai se dar principalmente pelo preenchimento dos [[Registros de Atividades]] elaborados para cada atividade que devem ser enviados ao local definido para o armazenamento desses dados para em seguida serem contabilizados pelo responsável.
 
