@@ -2,19 +2,21 @@
 title: Página Inicial
 ---
 > [!WARNING] Aviso
-> Esta é uma versão inicial do Manual e ainda está incompleta e sem revisão. Contribua enviando sugestões, textos, atividades e outros conteúdos para andreyduarte.aad@gmail.com.
+> Esta é uma versão inicial e ainda está incompleta e sem revisão. Contribua enviando sugestões, textos, atividades, recursos e outros conteúdos para andreyduarte.aad@gmail.com.
 
-Seja bem-vindo(a) ao Manual Behaviorista da Organização Marxista! 
+Seja bem-vindo(a) ao Manual Behaviorista da Organização Marxista!
 
-Nosso objetivo é orientar a realização de atividades básicas para a Organização Política aproveitando das melhores práticas da Análise Aplicada do Comportamento. Este material é organizado em duas partes: Textos Teóricos e Atividades Práticas.
+Nosso objetivo é orientar a realização de atividades básicas para a Organização Política aproveitando das melhores práticas da Análise Aplicada do Comportamento. Este material é organizado em duas partes: Textos Teóricos e Orientação das Práticas. 
+
+**Textos Teóricos** têm o objetivo de informar o leitor dos conceitos básicos de Behaviorismo, Marxismo, 
 # Índice
 * [[Introdução]]
 * [[Como Usar Esse Livro]]
 * Parte 1 - Textos Teóricos 
-	1. Behaviorismo
+	1. [[Behaviorismo]]
 		1. introdução geral
 		2. lista de conceitos
-	2. Marxismo
+	2. [[Marxismo]]
 		1. introdução geral
 		2. lista de conceitos
 	3. [[Observar, Planejar, Executar e Repetir]]
@@ -24,17 +26,17 @@ Nosso objetivo é orientar a realização de atividades básicas para a Organiza
 		1. [[Criando uma Organização Política]]
 		2. [[Mantendo uma Organização Política]]
 		3. [[Estrutura e Organização Interna]]
-* Parte 2 - Práticas 
-	1. [[Atividades]]
+* Parte 2 - Orientação das Práticas 
+	* [[Atividades]]
 		1. [[Sobre Reuniões no Geral]]
 		2. [[Assembléias e Eleições]]
 		3. [[Formações]]
 		4. [[Eventos e Divulgação]]
 		5. [[Atos e Manifestações]]
-	2. [[Recursos]]
+	* [[Recursos]]
 		1. [[Tabela de Objetivos e Indicadores]]
 		2. [[Modelos de Documentos]]
-			4. [[Registro de Atividade]]
-			5. [[Ata para Reuniões]]
-			6. [[Formulário de Filiação]]
-			7. [[Formulário de Demandas]]
+			1. [[Registro de Atividade]]
+			2. [[Ata para Reuniões]]
+			3. [[Formulário de Filiação]]
+			4. [[Formulário de Demandas]]
