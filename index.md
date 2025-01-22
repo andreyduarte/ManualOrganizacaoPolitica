@@ -13,12 +13,13 @@ Nosso objetivo é orientar a realização de atividades básicas para a Organiza
 ### Sobre o Manual
 1. [[Introdução]]
 2. [[Como Usar Esse Livro]]
-### Parte 1 - Textos Teóricos 
+3. [[Leituras Complementares]]
+### Parte 1 - Textos Teóricos
 * [[Behaviorismo]]
 * [[Marxismo]]
 * [[Observar, Planejar, Executar e Repetir]]
 * [[Sobre Organizações Políticas]]
-### Parte 2 - Orientação das Práticas 
+### Parte 2 - Orientação das Práticas
 * [[Atividades]]
 	* [[Sobre Reuniões no Geral]]
 	* [[Assembléias e Eleições]]
