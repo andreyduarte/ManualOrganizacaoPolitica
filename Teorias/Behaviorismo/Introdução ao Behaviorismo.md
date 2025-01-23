@@ -1,0 +1,2 @@
+> [!Note] Nota do Autor
+> Resumir o behaviorismo é certamente algo complicado, porém essencial para esse manual. Busco nessa introdução garantir que o leitor obtenha o mínimo necessário para a realização de uma análise funcional básica e a aplicação das intervenções.  e algum contexto da visão de ser humano dessa .
