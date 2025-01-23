@@ -18,7 +18,7 @@ O Behaviorismo é proposto por Jonh B. Watson pela primeira vez em 1913 no artig
 > 
 > 
 
-As demais abordagens psicológicas da época, tinham como objeto de estudo obje ( a mente, entre outros) e utilizavam o método a introspecção, Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. Propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano. Nesse sentido, ele propõe a retirada do comportamento humano de uma categoria à parte dos animais, [citando](Bibliografia/Watson_2008.pdf#page=3&selection=268,10,304,12&color=yellow) como exemplo o processo causado pela teoria evolucionista na biologia.
+Em contraste às demais abordagens psicológicas da época,  Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. Propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano. Nesse sentido, ele propõe a retirada do comportamento humano de uma categoria à parte dos animais, [citando](Bibliografia/Watson_2008.pdf#page=3&selection=268,10,304,12&color=yellow) como exemplo o processo causado pela teoria evolucionista na biologia.
 O cerne da sua proposta é tornar o Comportamento o objeto de estudo da psicologia, ou caso contrário, uma cisão para a criação da ciência do comportamento.
 
 > [!NOTE] Nota do Autor
