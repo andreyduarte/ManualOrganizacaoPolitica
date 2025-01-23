@@ -17,8 +17,9 @@ Sempre que disponível, todos os textos referenciados no manual estarão dispon�
 * [[Como Usar Esse Livro]]
 * [[Leituras Complementares]]
 ### Parte 1 - Textos Teóricos
-* [[Behaviorismo]]
-* [[Marxismo]]
+* Behaviorismo
+	* [[Introdução ao Behaviorismo Radical]]
+* Marxismo
 * [[Observar, Planejar, Executar e Avaliar]]
 * [[Sobre Organizações Políticas]]
 ### Parte 2 - Orientação das Práticas
