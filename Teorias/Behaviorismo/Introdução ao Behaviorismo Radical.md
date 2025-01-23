@@ -16,7 +16,7 @@ O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A
 > 
 > 
 
-Afastando-se das demais abordagens psicológicas da época, que tinham como objeto de estudo a consciência ou a mente e utilizavam como método a introspecção, Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. E mais, propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano 
+Afastando-se das demais abordagens psicológicas da época, que tinham como objeto de estudo a consciência ou a mente e utilizavam como método a introspecção, Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. E mais, propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano. Nesse sentido, ele propõe retirar o ser humano
 
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
 
