@@ -5,3 +5,4 @@
 
 # Referências
 
+[Rodrigues, M. E. (2012). Behaviorismo Radical, Análise do Comportamento e Educação: o que precisa ser conhecido. _Contribuições da Análise do Comportamento à prática educacional_, 37-71.]()
