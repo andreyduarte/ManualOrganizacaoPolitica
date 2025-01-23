@@ -14,7 +14,7 @@ Esse processo de OPEA é derivado de forma geral de um método de experimentaç�
 * Observação pós-intervenção: Nova Coleta dos dados presentes na Linha de Base, agora atualizados pela intervenção.
 * Análise e Planejamento: Comparação das coletas de dados para analisar resultados da intervenção, re-elaboração da intervenção com base na eficácia.
 
-O nosso objetivo é prover ao leitor uma forma de ter uma visão ampla ao longo do tempo do desempenho da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPEA busca ser uma organização científica e baseada em dados.
+O nosso objetivo é prover ao uma visão ampla ao longo do tempo do progresso da sua OP de maneira a subsidiar o planejamento de melhorias e avaliar de forma contínua seu resultado. Em contraste ao método "artesanal" de organização, que se dá partir de uma observação e intervenção mais intuitiva de seus membros, a OPEA busca ser uma organização científica e baseada na coleta e análise de dados.
 
 É importante que seja definido dentro da OP um grupo ou cargo responsável por recolher, guardar e analisar os dados produzidos nesse processo (chamado aqui de Analista), um local de armazenamento desses dados e uma rotina de revisão dos resultados. 
 # Observar: Analisando o Contexto
