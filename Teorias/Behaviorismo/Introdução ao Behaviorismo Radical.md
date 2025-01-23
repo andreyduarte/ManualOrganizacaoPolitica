@@ -8,7 +8,7 @@ Behaviorismo (ou Comportamentalismo<abbr title="Que na minha opinião é grande 
 > [!PDF|yellow] [[FloresJúnior_etal_2024.pdf#page=3&selection=51,0,57,6&color=yellow|Rodrigues, 2012, p.649]]
 > > Situamos nossa proposta como parte de um itinerário coletivo que visa contribuir com a construção de uma psicologia social comportamentalista radical como um projeto político-científico na análise do comportamento brasileira. Nos referimos a um projeto político-científico no sentido de um esforço organizado no qual os objetivos e modos de atuação se voltam tanto ao desenvolvimento do conhecimento científico quanto à ação política em prol de determinadas causas e valores na vida social.
 
-No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes, produzindo ferramentas e orientações para torná-la mais efetiva. Nesse sentido, 
+No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes, produzindo ferramentas e orientações para torná-la mais efetiva.  
 # Um Breve Histórico
 O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A Psicologia como o Behaviorista a vê" ](Watson_2008.pdf), onde ele inicia com o seguinte parágrafo:
 > [!PDF|yellow] [[Bibliografia/Watson_2008.pdf#page=1&selection=55,0,114,29&color=yellow|Watson_2008, p.1]]
@@ -17,6 +17,8 @@ O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A
 > 
 
 Afastando-se das demais abordagens psicológicas da época, que tinham como objeto de estudo a consciência ou a mente e utilizavam como método a introspecção, Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. E mais, propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano. Nesse sentido, ele propõe a retirada do comportamento humano de uma categoria à parte dos animais, [citando](Bibliografia/Watson_2008.pdf#page=3&selection=268,10,304,12&color=yellow) como exemplo o processo causado pela teoria evolucionista na biologia.
+
+O cerne da sua proposta é tornar o Comportamento o objeto de estudo da psicologia, ou caso contrário, a criação de uma ciência própria do comportamento.
 
 
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
