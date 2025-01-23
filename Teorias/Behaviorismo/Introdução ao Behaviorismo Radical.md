@@ -5,8 +5,11 @@ title: Introdução ao Behaviorismo Radical
 > Resumir o behaviorismo é certamente algo complicado, porém essencial para esse manual. Busco nessa introdução garantir que o leitor obtenha o mínimo necessário para a realização de uma análise funcional que subsidie o planejamento e a aplicação das intervenções. Acredito que exemplificar os conceitos através de situações comuns às Organizações Políticas ajude o público leigo a compreendê-los e, com alguma sorte, aprofundarem-se na ciência do comportamento por meio das indicações de leitura.
 # Definições
 Behaviorismo (ou Comportamentalismo<abbr title="Que na minha opinião é grande demais pra ser usado de forma prática, infelizmente.">¹</abbr>) é um termo com muitos usos e definições ao longo do tempo, então é importante definir que falamos do [Behaviorismo Radical de B.F. Skinner](Skinner_1974.pdf) alinhado à psicologia social latino-americana conforme definido por [Rodrigues (2012)](FloresJúnior_etal_2024.pdf):
-> [!PDF|yellow] [[FloresJúnior_etal_2024.pdf#page=3&selection=51,0,57,6&color=yellow|Rodrigues, 2012, p.649]]
-> > Situamos nossa proposta como parte de um itinerário coletivo que visa contribuir com a construção de uma psicologia social comportamentalista radical como um projeto político-científico na análise do comportamento brasileira. Nos referimos a um projeto político-científico no sentido de um esforço organizado no qual os objetivos e modos de atuação se voltam tanto ao desenvolvimento do conhecimento científico quanto à ação política em prol de determinadas causas e valores na vida social.
+
+> [!PDF|] [[Bibliografia/FloresJúnior_etal_2024.pdf#page=3&selection=51,0,57,6|FloresJúnior_etal_2024, p.649]]
+> > Situamos nossa proposta como parte de um itinerário coletivo que visa contribuir com a construção de uma psicologia social comportamentalista radical como um projeto político-científico na análise do comportamento brasileira. Nos referimos a um projeto político-científico no sentido de um esforço organizado no qual os objetivos e modos de atuação se voltam tanto ao desenvolvimento do conhecimento científico quanto à ação política em prol de determinadas causas e valores na vida social
+> 
+> 
 
 No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes, produzindo textos teóricos, ferramentas e orientações para torná-la mais efetiva.  
 # Um Breve Histórico
@@ -20,7 +23,6 @@ Em contraste às demais abordagens psicológicas da época,  Watson propõe uma 
 
 > ([[Bibliografia/Watson_2008.pdf#page=6&selection=323,0,385,4&color=yellow|Watson_2008, p.6]])
 > A psicologia a qual eu tentaria construir tomaria como um ponto de partida, primeiro, o fato observável de que organismos, seres humanos e animais igualmente, de fato se ajustam ao seu meio ambiente através de equipamentos de hábitos e hereditários. Estes ajustamentos podem ser muito adequados ou tão inadequados que o organismo malmente mantém sua existência; segundo, que certos estímulos levam os organismos a gerar as respostas. Em um sistema de psicologia completamente elaborado, dada a resposta o estímulo pode ser previsto; dado o estímulo a resposta pode ser prevista. Tal conjunto de afirmações é crasso e cru no extremo, como todas as tais generalizações devem ser.
-
 
 > [!NOTE] Nota do Autor
 > Ler esse artigo do Watson é muito interessante, claro, levando em conta que já foram 112 anos desde sua publicação. Ele fala uns absurdos ([1](Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow), [2](Bibliografia/Watson_2008.pdf#page=7&selection=200,13,203,20)), faz umas provocações aos adversários ([1](Bibliografia/Watson_2008.pdf#page=4&selection=358,0,398,11&color=note), [2](Bibliografia/Watson_2008.pdf#page=6&selection=235,16,262,24&color=note)) e lança uma [profecia](Bibliografia/Watson_2008.pdf#page=5&selection=91,10,109,43&color=note) (ambos mto engraçados) que na época o artigo deve ter sido a fofoca da galera por uns meses. De certa forma vejo ele como um "velho testamento" do behaviorismo.
