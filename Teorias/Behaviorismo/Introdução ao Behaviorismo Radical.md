@@ -10,6 +10,7 @@ Behaviorismo (ou Comportamentalismo<abbr title="Que na minha opinião é grande 
 # Um Breve Histórico
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
 
+
 # Referências
 [Flores-Júnior, C. R., Laurenti, C., Borba, A., & Tourinho, E. Z. (2024). Rumo a uma Psicologia Social Comportamentalista Radical. _Acta Comportamentalia_, _32_(4), 647-666.](FloresJúnior_etal_2024.pdf)
 
