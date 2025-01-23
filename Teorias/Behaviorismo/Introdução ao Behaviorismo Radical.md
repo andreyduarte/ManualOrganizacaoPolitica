@@ -16,7 +16,11 @@ O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A
 > 
 > 
 
-Afastando-se das demais abordagens psicológicas da época, que tinham como objeto de estudo a consciência ou a mente e utilizavam como método a introspecção, Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. E mais, propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano. Nesse sentido, ele propõe retirar o ser humano
+Afastando-se das demais abordagens psicológicas da época, que tinham como objeto de estudo a consciência ou a mente e utilizavam como método a introspecção, Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. E mais, propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano. Nesse sentido, ele propõe a retirada do comportamento humano de uma categoria à parte dos animais, [citando]() como exemplo o processo operado pela teoria evolucionista na biologia.
+
+> ([[|Watson_2008, p.3]])
+> É estranho que essa situação tenha persistido a dominante na biologia por tantos anos. No momento em que a zoologia empreendeu o estudo experimental da evolução e descendência, a situação mudou imediatamente. O homem deixou de ser o centro de referência. Eu duvido que qualquer biólogo experimental hoje, a menos que de fato engajado no problema da diferenciação da raça no homem, tente interpretar seus achados em termos de evolução humana, ou mesmo se refira a ela em seu pensamento. Ele reúne seus dados do estudo de várias espécies de plantas e animais e tenta desvendar as leis de hereditariedade no tipo particular sobre o qual ele está conduzindo experimentos
+
 
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
 
