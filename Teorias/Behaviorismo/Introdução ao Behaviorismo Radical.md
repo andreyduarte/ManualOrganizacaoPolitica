@@ -8,7 +8,7 @@ Behaviorismo (ou Comportamentalismo<abbr title="Que na minha opinião é grande 
 > [!PDF|yellow] [[FloresJúnior_etal_2024.pdf#page=3&selection=51,0,57,6&color=yellow|Rodrigues, 2012, p.649]]
 > > Situamos nossa proposta como parte de um itinerário coletivo que visa contribuir com a construção de uma psicologia social comportamentalista radical como um projeto político-científico na análise do comportamento brasileira. Nos referimos a um projeto político-científico no sentido de um esforço organizado no qual os objetivos e modos de atuação se voltam tanto ao desenvolvimento do conhecimento científico quanto à ação política em prol de determinadas causas e valores na vida social.
 
-No caso deste livro/blog, as "causas e valores na vida social" são promover a organização popular 
+No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes 
 # Um Breve Histórico
 
 
