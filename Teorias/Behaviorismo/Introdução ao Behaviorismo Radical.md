@@ -10,7 +10,7 @@ Behaviorismo (ou Comportamentalismo<abbr title="Que na minha opinião é grande 
 
 No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes, produzindo ferramentas e orientações para torná-la mais efetiva. 
 # Um Breve Histórico
-O chamado "Behaviorismo" é proposto pela primeira vez m  
+O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A Psicologia como o Behaviorista a vê" ]()
 
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
 
