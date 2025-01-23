@@ -20,6 +20,7 @@ Sempre que disponível, todos os textos referenciados no manual estarão dispon�
 * Behaviorismo
 	* [[Introdução ao Behaviorismo Radical]]
 * Marxismo
+	* [[Introdução ao Marxismo-Leninismo]]
 * [[Observar, Planejar, Executar e Avaliar]]
 * [[Sobre Organizações Políticas]]
 ### Parte 2 - Orientação das Práticas
