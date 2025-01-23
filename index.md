@@ -11,7 +11,7 @@ Nosso objetivo é orientar a realização de atividades básicas para a Organiza
 * **Textos Teóricos**: têm o objetivo de informar o leitor dos conceitos básicos de Behaviorismo, Marxismo e Gestão de Organizações Políticas; Inclui fichas de conceitos básicos de cada teoria para facilitar a consulta.
 * **Orientação das Práticas**: têm o objetivo de oferecer ao leitor  sistematizar o planejamento, execução e avaliação de diversas atividades comuns às Organizações Políticas; Também conta com recursos para coleta de dados, planejamento, controle de tarefas, etc.
 
-Sempre que disponível, todos os textos referenciados no manual estarão disponíveis em PDF a partir das citações no próprio texto.
+Visando construir um repositório que permita ao leitor se aprofundar teoricamente, sempre que disponível, todos os textos referenciados no manual estarão disponíveis em PDF a partir das citações no próprio texto. A lista dos livros e artigos disponíveis pode ser visualizada ou baixada na sessão Bibliografia.
 ### Sobre o Manual
 * [[Introdução]]
 * [[Como Usar Esse Livro]]
