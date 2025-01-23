@@ -14,3 +14,5 @@ Behaviorismo (ou Comportamentalismo <abbr title="Que na minha opinião é grande
  [Rodrigues, M. E. (2012). Behaviorismo Radical, Análise do Comportamento e Educação: o que precisa ser conhecido. _Contribuições da Análise do Comportamento à prática educacional_, 37-71.](Contribuições da análise do comportamento à prática educacional.pdf)
 
  [Skinner, B. F. (1974). Sobre o behaviorismo (MP Villalobos, trad.). _São Paulo_.](SKINNER_B_F_Sobre_o_Behaviorismo.pdf)
+ 
+ [Watson, J. (2008). A psicologia como o behaviorista a vê.]()
