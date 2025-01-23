@@ -20,7 +20,7 @@ Afastando-se das demais abordagens psicológicas da época, que tinham como obje
 O cerne da sua proposta é tornar o Comportamento o objeto de estudo da psicologia, ou caso contrário, uma cisão para a criação da ciência do comportamento.
 
 > [!NOTE] Nota do Autor
-> Ler esse artigo do Watson é muito interessante, claro, levando em conta que já foram 112 anos desde sua publicação. Ele fala uns [absurdos](Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow), faz umas [provocações](Bibliografia/Watson_2008.pdf#page=4&selection=358,0,398,11&color=note) e lança uma [profecia](Bibliografia/Watson_2008.pdf#page=5&selection=91,10,109,43&color=note) (ambos mto engraçados) que na época o artigo deve ter sido a fofoca da galera por uns meses. De certa forma vejo ele como um "velho testamento" do behaviorismo.
+> Ler esse artigo do Watson é muito interessante, claro, levando em conta que já foram 112 anos desde sua publicação. Ele fala uns absurdos ([1](Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow), [2](Bibliografia/Watson_2008.pdf#page=6&selection=235,16,262,24&color=note)), faz umas [provocações](Bibliografia/Watson_2008.pdf#page=4&selection=358,0,398,11&color=note) e lança uma [profecia](Bibliografia/Watson_2008.pdf#page=5&selection=91,10,109,43&color=note) (ambos mto engraçados) que na época o artigo deve ter sido a fofoca da galera por uns meses. De certa forma vejo ele como um "velho testamento" do behaviorismo.
 
 
 
