@@ -1,3 +1,7 @@
+---
+title:
+---
+
 > [!NOTE] Resumo
 > ...
 # Definição Teórica

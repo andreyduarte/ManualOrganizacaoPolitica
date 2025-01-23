@@ -1,3 +1,7 @@
+---
+title: Observar, Planejar, Executar e Avaliar
+---
+
 > Construir uma Organização Política é certamente um desafio, mas um que é enfrentado e superado por seres humanos desde os tempos mais ancestrais. 
 
 > [!NOTE] Nota do Autor
