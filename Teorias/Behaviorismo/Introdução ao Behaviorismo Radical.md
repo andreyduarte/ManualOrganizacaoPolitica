@@ -1,7 +1,12 @@
 > [!Note] Nota do Autor
 > Resumir o behaviorismo é certamente algo complicado, porém essencial para esse manual. Busco nessa introdução garantir que o leitor obtenha o mínimo necessário para a realização de uma análise funcional que subsidie o planejamento e a aplicação das intervenções. Acredito que exemplificar os conceitos através de situações comuns às Organizações Políticas ajude o público leigo a compreendê-los e, com alguma sorte, aprofundarem-se na ciência do comportamento por meio das indicações de leitura. 
 # Definições
-Behaviorismo (ou Comportamentalismo <abbr title="Que na minha opinião é grande demais pra ser usado de forma prática, infelizmente.">¹</abbr>) é um termo com muitos usos e definições ao longo do tempo, então é importante definir que tratamos do [Behaviorismo Radical de B.F. Skinner](obsidian://open?vault=Manual%20Behaviorista%20da%20Organiza%C3%A7%C3%A3o%20Marxista&file=Bibliografia%2FSKINNER_B_F_Sobre_o_Behaviorismo.pdf) somado a diversas outras contribuições (em sua grande maioria de brasileiros) ao longo das décadas desde a sua concepção. Partiremos de uma visão alinhada à psicologia social de uma ciência  
+Behaviorismo (ou Comportamentalismo <abbr title="Que na minha opinião é grande demais pra ser usado de forma prática, infelizmente.">¹</abbr>) é um termo com muitos usos e definições ao longo do tempo, então é importante definir que tratamos do [Behaviorismo Radical de B.F. Skinner](obsidian://open?vault=Manual%20Behaviorista%20da%20Organiza%C3%A7%C3%A3o%20Marxista&file=Bibliografia%2FSKINNER_B_F_Sobre_o_Behaviorismo.pdf) somado a diversas outras contribuições (em sua grande maioria de brasileiros) ao longo das décadas desde a sua concepção. Partiremos de uma visão alinhada à psicologia social latino-americana:
+
+> [!PDF|yellow] [[03.pdf#page=3&selection=47,18,49,57&color=yellow|03, p.649]]
+> > Por sua vez, a psicologia social latino-americana estabeleceu a tradição de um campo voltado a um compromisso político de enfrentamento aos problemas sociais e societais vividos por suas populações
+> 
+> 
 # Um Breve Histórico
 
 # Referências
