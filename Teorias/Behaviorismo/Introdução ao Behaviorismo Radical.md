@@ -19,13 +19,9 @@ O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A
 Afastando-se das demais abordagens psicológicas da época, que tinham como objeto de estudo a consciência ou a mente e utilizavam como método a introspecção, Watson propõe uma psicologia experimental, fortemente ligada às ciências naturais, que tratasse não de fenômenos subjetivos da consciência mas de sinais observáveis no organismo. E mais, propunha que o estudo do comportamento animal traria dados valioso para a compreensão do comportamento humano. Nesse sentido, ele propõe a retirada do comportamento humano de uma categoria à parte dos animais, [citando](Bibliografia/Watson_2008.pdf#page=3&selection=268,10,304,12&color=yellow) como exemplo o processo causado pela teoria evolucionista na biologia.
 
 > [!NOTE] Nota do Autor
-> Ler esse artigo do Watson é muito interessante, claro, levando em conta que já foram 112 anos desde sua publicação. Ele fala uns [absurdos engraçados](Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow) e faz umas [provocações]()
+> Ler esse artigo do Watson é muito interessante, claro, levando em conta que já foram 112 anos desde sua publicação. Ele fala uns [absurdos](Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow) e faz umas [provocações](Bibliografia/Watson_2008.pdf#page=4&selection=358,0,398,11&color=note) (ambos mto engraçados) que na época o artigo deve ter sido a fofoca da galera por uns meses. De certa forma vejo ele como um "velho testamento" do behaviorismo.
 
-> ([[Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow|Watson_2008, p.2]])
-> Se os psicólogos dos seres humanos falharem em encarar com boas graças as nossas propostas e se recusarem a modificar a sua posição, os behavioristas serão levados a usar seres humanos como sujeitos e a empregar métodos de investigação que são exatamente comparáveis àqueles agora empregados no trabalho com animais.
-
-
-O cerne da sua proposta é tornar o Comportamento o objeto de estudo da psicologia, ou caso contrário, a criação de uma ciência própria do comportamento.
+O cerne da sua proposta é tornar o Comportamento o objeto de estudo da psicologia, ou caso contrário, uma cisão para a criação da ciência do comportamento.
 
 
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
