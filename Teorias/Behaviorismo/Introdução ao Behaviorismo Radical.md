@@ -10,7 +10,6 @@ Behaviorismo (ou Comportamentalismo<abbr title="Que na minha opinião é grande 
 
 No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes, produzindo textos teóricos, ferramentas e orientações para torná-la mais efetiva.  
 # Um Breve Histórico
-
 ## Behaviorismo Metodológico
 O Behaviorismo é proposto por John B. Watson pela primeira vez em 1913 no artigo ["A Psicologia como o Behaviorista a vê" ](Watson_2008.pdf), onde ele inicia com o seguinte parágrafo:
 
@@ -24,9 +23,7 @@ Em contraste às demais abordagens psicológicas da época,  Watson propõe uma 
 
 
 > [!NOTE] Nota do Autor
-> Ler esse artigo do Watson é muito interessante, claro, levando em conta que já foram 112 anos desde sua publicação. Ele fala uns absurdos ([1](Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow), ), faz umas provocações aos adversários ([1](Bibliografia/Watson_2008.pdf#page=4&selection=358,0,398,11&color=note), [2](Bibliografia/Watson_2008.pdf#page=6&selection=235,16,262,24&color=note)) e lança uma [profecia](Bibliografia/Watson_2008.pdf#page=5&selection=91,10,109,43&color=note) (ambos mto engraçados) que na época o artigo deve ter sido a fofoca da galera por uns meses. De certa forma vejo ele como um "velho testamento" do behaviorismo.
-
-
+> Ler esse artigo do Watson é muito interessante, claro, levando em conta que já foram 112 anos desde sua publicação. Ele fala uns absurdos ([1](Bibliografia/Watson_2008.pdf#page=2&selection=60,39,98,35&color=yellow), [2](Bibliografia/Watson_2008.pdf#page=7&selection=200,13,203,20)), faz umas provocações aos adversários ([1](Bibliografia/Watson_2008.pdf#page=4&selection=358,0,398,11&color=note), [2](Bibliografia/Watson_2008.pdf#page=6&selection=235,16,262,24&color=note)) e lança uma [profecia](Bibliografia/Watson_2008.pdf#page=5&selection=91,10,109,43&color=note) (ambos mto engraçados) que na época o artigo deve ter sido a fofoca da galera por uns meses. De certa forma vejo ele como um "velho testamento" do behaviorismo.
 
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
 > 
