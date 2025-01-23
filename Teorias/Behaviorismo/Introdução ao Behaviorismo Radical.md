@@ -10,7 +10,13 @@ Behaviorismo (ou Comportamentalismo<abbr title="Que na minha opinião é grande 
 
 No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes, produzindo ferramentas e orientações para torná-la mais efetiva. 
 # Um Breve Histórico
-O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A Psicologia como o Behaviorista a vê" ]()
+O chamado "Behaviorismo" é proposto pela primeira vez em 1913 no seu artigo ["A Psicologia como o Behaviorista a vê" ](Watson_2008.pdf), onde ele inicia com o seguinte parágrafo:
+> [!PDF|yellow] [[Bibliografia/Watson_2008.pdf#page=1&selection=55,0,114,29&color=yellow|Watson_2008, p.1]]
+> > A psicologia como o behaviorista a vê é um ramo experimental puramente objetivo das ciências naturais. Seu objetivo teórico é a previsão e o controle do comportamento. A introspecção não constitui parte essencial de seus métodos, nem o valor científico de seus dados depende da facilidade com que eles podem ser interpretados em termos de consciência. O behaviorista, em seus esforços para conseguir um esquema unitário da resposta animal, não reconhece linha divisória entre homens e animais. O comportamento do homem, com todo o seu refinamento e complexidade, constitui apenas uma parte do esquema total de investigação do behaviorista.
+> 
+> 
+
+Afastando-se das demais abordagens da época, que tinham como objeto de estudo a consciência ou a mente e utilizavam como método a instrospecção , Watson propõe uma psicologia experimental e fortemente ligada às ciências naturais. 
 
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
 
