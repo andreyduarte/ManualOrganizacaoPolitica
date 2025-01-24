@@ -39,8 +39,8 @@ Esse mesmo efeito ocorre em humanos e é muito utilizado em publicidade de todos
 
 Apesar de tudo, o Behaviorismo Metodológico e seu Condicionamento Reflexo ainda eram bastante insuficientes para explicar diversos comportamentos dos seres vivos. A necessidade de observabilidade do comportamento era um grande problema para a realização de uma psicologia que respondesse aos problemas humanos. Como lidar com o pensamento? Sensações internas como dor, sentimentos, etc. Isso seria um ponto de virada importante para o behaviorismo, que só aconteceria em 
 ## Behaviorismo Radical
-	
-> “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
+> [!PDF|] [[Bibliografia/Rodrigues_2012.pdf#page=2&selection=44,33,58,55|Rodrigues_2012, p.2]]
+> > O ambiente não é necessariamente externo e não diz respeito exclusivamente ao mundo das coisas, referindo-se também ao mundo das pessoas e ao mundo da cultura. Skinner recupera o ambiente como instância privilegiada onde o cientista busca variáveis e condições das quais o comportamento é função, o que ocorre não em uma relação dualista, mecanicista e causal, no sentido linear, mas sim em uma visão selecionista, evolucionista, interacional, funcional e histórica. 
 > 
 # Referências
 [Flores-Júnior, C. R., Laurenti, C., Borba, A., & Tourinho, E. Z. (2024). Rumo a uma Psicologia Social Comportamentalista Radical. _Acta Comportamentalia_, _32_(4), 647-666.](FloresJúnior_etal_2024.pdf)
