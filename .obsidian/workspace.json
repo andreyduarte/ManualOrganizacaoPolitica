@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "09dc8c4b0e7fe390",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1a295ca8c335c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a724dac48aeaaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teorias/Behaviorismo/Introdução ao Behaviorismo Radical.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdução ao Behaviorismo Radical"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f00d06c089ead7b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98612564fcbfbaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66cec450fb6a444b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bacd6d28e8e40875",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f503de0b995ac78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a488fef97b0eb542",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5238f3766e16d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1459d586f356ba3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teorias/Behaviorismo/Introdução ao Behaviorismo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introdução ao Behaviorismo"
+            }
+          },
+          {
+            "id": "80e1573a504e3c98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teorias/Behaviorismo/Introdução ao Behaviorismo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introdução ao Behaviorismo"
+            }
+          },
+          {
+            "id": "3b453c32a460c427",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "798ed31b28a59a9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teorias/Behaviorismo/Introdução ao Behaviorismo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introdução ao Behaviorismo"
+            }
+          },
+          {
+            "id": "3b32b2428865be78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fit:Fit Sync": false,
+      "obsidian42-brat:BRAT": true,
+      "webpage-html-export:Export as HTML": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "18a724dac48aeaaa",
+  "lastOpenFiles": [
+    "Bibliografia/Rodrigues_2012.pdf",
+    "Teorias/Behaviorismo/Introdução ao Behaviorismo Radical.md",
+    "docs/bibliografia/b.f._skinner_at_harvard_circa_1950_(cropped).jpg",
+    "docs/bibliografia/b.f._skinner_at_harvard_circa_1950_(cropped).html",
+    "Bibliografia/B.F._Skinner_at_Harvard_circa_1950_(cropped).jpg",
+    "Bibliografia/B.F._Skinner_at_Harvard_circa_1950_(cropped).jpg.opdownload",
+    "Bibliografia/Watson_2008.pdf",
+    "Bibliografia/FloresJúnior_etal_2024.pdf",
+    "docs/site-lib/styles/supported-plugins.css",
+    "docs/site-lib/styles/other-plugins.css",
+    "README.md",
+    "index.md",
+    "docs/site-lib/search-index.json",
+    "docs/site-lib/metadata.json",
+    "docs/site-lib/scripts/webpage.js",
+    "Práticas/Atividades/Sobre Reuniões no Geral.md",
+    "Teorias/Gestão de Organizações Políticas/Sobre Organizações Políticas.md",
+    "Teorias/Gestão de Organizações Políticas/Observar, Planejar, Executar e Avaliar.md",
+    "docs/site-lib/media/favicon.png",
+    "docs/site-lib/media/3d6c1bdc4d87cde4de67.svg",
+    "docs/site-lib/media/874d8b8e340f75575caa.svg",
+    "docs/attachments/fluxograma-opea.png",
+    "Idéia Inicial.md",
+    "Templates/Modelo de Conceito.md",
+    "Templates/Modelo de Atividade.md",
+    "Contribuições.md",
+    "[[SKINNER_B_F_Sobre_o_Behaviorismo.pdf]].md",
+    "Watson.md",
+    "[[03.pdf]].md",
+    "Modelos de Documentos.md",
+    "[[Bibliografia/03.pdf]].md",
+    "Attachments/Fluxograma OPEA.png",
+    "Fluxograma OPE.canvas",
+    "Recursos.md",
+    "Índice.md",
+    "index.canvas",
+    "docs/lib/media/favicon.png",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "Estrutura e Organização Interna.md",
+    "Como Fazer Boas Reuniões.md",
+    "Artigos/Como Usar Esse Livro.md"
+  ]
+}
