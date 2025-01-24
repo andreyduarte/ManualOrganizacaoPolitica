@@ -12,8 +12,6 @@ Behaviorismo (ou Comportamentalismo^[Que na minha opinião é grande demais pra 
 > 
 
 No caso deste livro/blog, as "causas e valores na vida social" para as quais nos voltamos são promover a organização popular no âmbito da luta de classes, produzindo textos teóricos, ferramentas e orientações para torná-la mais efetiva.  
-
----
 # Um Breve Histórico
 ## Behaviorismo Metodológico
 O Behaviorismo é proposto por John B. Watson pela primeira vez em 1913 no artigo ["A Psicologia como o Behaviorista a vê" ](Watson_2008.pdf), onde ele inicia com o seguinte parágrafo:
@@ -40,8 +38,6 @@ Estimulo 2 => Reposta
 Esse mesmo efeito ocorre em humanos e é muito utilizado em publicidade de todos os tipos, basta observar qualquer boa propaganda de bebida já produzida: a imagem da condensação na superfície do produto, os sons da lata ou garrafa sendo abertas seguido de um "GULP, GULP GULP, Aaaaaaaah!" vão te fazer sentir sede (eu senti escrevendo isso). Não há vergonha em admitir-se controlado(a), há muitas décadas de estudos e rios de dinheiro foram investidos na manipulação desse efeito em busca de uma reação que te coloque um pouco mais perto de comprar um produto, ou votar em alguém.
 
 Apesar de tudo, o Behaviorismo Metodológico e seu Condicionamento Reflexo ainda eram bastante insuficientes para explicar diversos comportamentos dos seres vivos. A necessidade de observabilidade do comportamento era um grande problema para a realização de uma psicologia que respondesse aos problemas humanos. Como lidar com o pensamento? Sensações internas como dor, sentimentos, etc. Isso seria um ponto de virada importante para o behaviorismo, que só aconteceria entre 1930 e 1945 a partir dos estudos e experimentos de um estudante de Literatura Inglesa (?!?!) que tomou particular interesse pelo estudo do comportamento, Burrhus Frederic Skinner (1904-1990).
-
----
 ## Behaviorismo Radical
 > [!PDF|] [[Bibliografia/Rodrigues_2012.pdf#page=2&selection=44,33,58,55|Rodrigues_2012, p.2]]
 > > O ambiente não é necessariamente externo e não diz respeito exclusivamente ao mundo das coisas, referindo-se também ao mundo das pessoas e ao mundo da cultura. Skinner recupera o ambiente como instância privilegiada onde o cientista busca variáveis e condições das quais o comportamento é função, o que ocorre não em uma relação dualista, mecanicista e causal, no sentido linear, mas sim em uma visão selecionista, evolucionista, interacional, funcional e histórica. 
