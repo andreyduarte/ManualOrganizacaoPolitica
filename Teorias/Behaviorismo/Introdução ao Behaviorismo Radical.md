@@ -37,7 +37,7 @@ Estimulo 2 => Reposta
 
 Esse mesmo efeito ocorre em humanos e é muito utilizado em publicidade de todos os tipos, basta observar qualquer boa propaganda de bebida já produzida: a imagem da condensação na superfície do produto, os sons da lata ou garrafa sendo abertas seguido de um "GULP, GULP GULP, Aaaaaaaah!" vão te fazer sentir sede (eu senti escrevendo isso). Não há vergonha em admitir-se controlado(a), há muitas décadas de estudos e rios de dinheiro foram investidos na manipulação desse efeito em busca de uma reação que te coloque um pouco mais perto de comprar um produto, ou votar em alguém.
 
-Apesar de tudo, o Behaviorismo Metodológico e seu Condicionamento Reflexo ainda eram bastante insuficientes para explicar diversos comportamentos dos seres vivos. 
+Apesar de tudo, o Behaviorismo Metodológico e seu Condicionamento Reflexo ainda eram bastante insuficientes para explicar diversos comportamentos dos seres vivos. A necessidade de observabilidade do comportamento era um grande problema para a realização de uma psicologia que respondesse aos problemas humanos. Como lidar com o pensamento? Sensações internas como dor, sentimentos, etc. Isso seria um ponto de virada importante para o behaviorismo, que só aconteceria em 
 ## Behaviorismo Radical
 	
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
