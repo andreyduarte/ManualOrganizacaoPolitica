@@ -29,9 +29,12 @@ Em contraste às demais abordagens psicológicas da época, Watson propõe uma p
 
 O cerne da sua proposta de Watson era rejeitar os objetos de estudos "mentalistas" e tomar o Comportamento como objeto de estudo da psicologia, aderindo ao evolucionismo biológico e ao determinismo materialista. Também dá grande importância à dinâmica estímulo-resposta na interação do organismo com o ambiente, algo que já era proposto por outros autores na época, como [Ivan Pavlov](https://en.wikipedia.org/wiki/Ivan_Pavlov), o responsável pela descoberta do Condicionamento Reflexo ^[Ou Condicionamento Clássico.](CR). 
 
-Segundo Pavlov, uma das maneiras pelas quais os seres vivos adquirem novos comportamentos seria a associação de estímulos. Enquanto estudava o comportamento digestivo de cachorros, observou que eles começavam a salivar na presença de carne (um reflexo inato em diversas espécies). No decorrer do experimento, após serem alimentados repetidas vezes, os cães passavam a salivar também na presença do assistente que os alimentava, mesmo na ausência de carne. A partir dessa observação, Pavlov testou associar outros estímulos apresentando-os junto com a carne e observou que eles adquiriam a função de fazer os cães salivarem ao serem apresentados. 
+Segundo Pavlov, uma das maneiras pelas quais os seres vivos adquirem novos comportamentos seria a associação de estímulos. Enquanto estudava o comportamento digestivo de cachorros, observou que eles começavam a salivar na presença de carne (um reflexo inato em diversas espécies). No decorrer do experimento, após serem alimentados repetidas vezes, os cães passavam a salivar também na presença do assistente que os alimentava, mesmo na ausência de carne. A partir dessa observação, Pavlov testou associar outros estímulos apresentando-os junto com a carne e observou que eles adquiriam a função de fazer os cães salivarem quando apresentados. Dessa forma descreveu a seguinte formula do CC: 
 
-Esse mesmo efeito ocorre em humanos, 
+Estimulo 1 => Resposta 1
+Estim
+
+Esse mesmo efeito ocorre em humanos e podem ser facilmente observados, por exemplo, em situações traumáticas, onde 
 ## Behaviorismo Radical
 	
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
