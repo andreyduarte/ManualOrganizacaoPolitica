@@ -31,10 +31,11 @@ O cerne da sua proposta de Watson era rejeitar os objetos de estudos "mentalista
 
 Segundo Pavlov, uma das maneiras pelas quais os seres vivos adquirem novos comportamentos seria a associação de estímulos. Enquanto estudava o comportamento digestivo de cachorros, observou que eles começavam a salivar na presença de carne (um reflexo inato em diversas espécies). No decorrer do experimento, após serem alimentados repetidas vezes, os cães passavam a salivar também na presença do assistente que os alimentava, mesmo na ausência de carne. A partir dessa observação, Pavlov testou associar outros estímulos apresentando-os junto com a carne e observou que eles adquiriam a função de fazer os cães salivarem quando apresentados. Dessa forma descreveu a seguinte formula do CC: 
 
-Estimulo 1 => Resposta 1
-Estim
+>Estimulo 1 => Resposta
+Estimulo 1 + Estimulo 2 => Resposta (repetição)
+Estimulo 2 => Reposta
 
-Esse mesmo efeito ocorre em humanos e podem ser facilmente observados, por exemplo, em situações traumáticas, onde 
+Esse mesmo efeito ocorre em humanos e é muito utilizado em publicidade de todos os tipos, basta observar qualquer boa propaganda de bebida já produzida, a imagem da condensação na superficie do produto, os sons da lataougarrafa sendo aberta, 
 ## Behaviorismo Radical
 	
 > “O Behaviorismo não é a ciência do comportamento humano, mas, sim, a filosofia dessa ciência.” B.F. Skinner
